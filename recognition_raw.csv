@@ -1,0 +1,7 @@
+subj,list,word,true_status,cond,response,rk
+1,1,bed,old,recall,old,R
+1,1,blanket,old,recall,old,K
+1,98,sleep,lure_crit,Ð,old,K
+1,99,window,lure_crit,Ð,new,
+1,99,banana,lure_unrel,Ð,new,
+É,É,É,É,É,É,É
